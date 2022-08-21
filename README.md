@@ -6,7 +6,7 @@
 [![Stars](https://img.shields.io/github/stars/iamkabilash/ineuron_challenge-project-09?style=social)](#)
 
 # Running the Project
-[![Live link](https://img.shields.io/badge/Live%20link-Click%20here-blue?style=for-the-badge&logo=appveyor)](https://62e2c27a46f4c300a1d01c74--prismatic-torrone-8e6b2f.netlify.app/)
+[![Live link](https://img.shields.io/badge/Live%20link-Click%20here-blue?style=for-the-badge&logo=appveyor)](https://prismatic-torrone-8e6b2f.netlify.app/)
 
 # What I have learnt in this project
 [![Project](https://img.shields.io/badge/HTML-red?style=for-the-badge&logo=appveyor)](#)
